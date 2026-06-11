@@ -1,0 +1,6 @@
+{
+  "name": "NexEngix",
+  "description": "High-velocity career and engineering operating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
